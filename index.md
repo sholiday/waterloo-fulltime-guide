@@ -8,7 +8,7 @@ This document is unofficial and not endorsed by my school or employers.
 
 We’re not lawyers, tax specialists nor do we purport to have any real knowledge.
 
-This is a collection of things we wished we knew when we went away for fulltime
+This is a collection of things we wished someone told us when we went away for fulltime opportunities
 in the US. We hope it helps you out. Many things contained in this document were
 gained through mistakes and conversations with older students.
 
@@ -17,6 +17,7 @@ Please submit a pull request if you have something to add!
 ### Contributors
 
 * [Stephen Holiday](https://stephenholiday.com)
+* [Tony Dong](tony-dong.com)
 
 <section id="Getting-the-Job" />
 ## Getting the Job
@@ -24,7 +25,7 @@ Please submit a pull request if you have something to add!
 <section id="Negotiation" />
 ### Negotiation
 
-Always negotiate. For many of us it's hard to negotiate, first the offers are
+Always negotiate. For many of us it's hard to negotiate because the offers are
 often quite lucrative. It can seem like more than we deserve. But if you don't
 negotiate you can be leaving [a lot of money on the table][negotiating-cost].
 
@@ -57,7 +58,7 @@ weeks if you give them a good reason. Stephen's friends pushed back return offer
 for over 3 months.
 
 The easiest way to negotiate is to have other competing offers. Once you get the
-details of a companies offer, tell them what the other companies offered you.
+details of a company's offer, tell them what the other companies have offered you.
 Don't lie, often they will ask you to forward the offer letter for verification.
 
 Many recruiters get a bonus or have their bonus tied to the number of new hires
@@ -98,11 +99,13 @@ Resources:
 * [Consider Your Options][consider-your-options] Book
 * [An Introduction to Stock & Options][intro-to-stock]
   [Scribd][intro-to-stock-scribd] [PDF][intro-to-stock-pdf]
+* [When to Exercise Stock Options][wealthfront-stock]
 
 [consider-your-options]: http://fairmark.com/books-fairmark-press/consider-your-options/
 [intro-to-stock]: http://blog.dweek.ly/introduction-to-stock-options-startup-founder-entrepreneur-employee/
 [intro-to-stock-scribd]: http://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee
 [intro-to-stock-pdf]: http://stocks.pbworks.com/f/Intro+to+Stock+and+Options.pdf
+[wealthfront-stock]: https://blog.wealthfront.com/when-to-exercise-stock-options/
 
 <section id="401k" />
 ### 401k
