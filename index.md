@@ -18,7 +18,7 @@ Please submit a pull request if you have something to add!
 
 * [Stephen Holiday](https://stephenholiday.com)
 * [Tony Dong](tony-dong.com)
-* [Michael Sha](http://michaelshao.com)
+* [Michael Shao](http://michaelshao.com)
 
 <section id="Getting-the-Job" />
 ## Getting the Job
