@@ -34,7 +34,6 @@ Here are a few quick resource refreshers for finding awesome companies to work a
 
 Note that even as a co-op student, it can take a while (up to a few months) to find a full-time position if you end up not returning to a previous employer, for whatever reason.
 Keep applying, keep learning, keep trying - persistence and confidence is key. You will find a job in time - everyone does, in some way or another.
-(This is coming from someone who took three months to find a job, and ended up at Amazon.)
 
 General tips & advice:
 
