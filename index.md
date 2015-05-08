@@ -18,9 +18,29 @@ Please submit a pull request if you have something to add!
 
 * [Stephen Holiday](https://stephenholiday.com)
 * [Tony Dong](tony-dong.com)
+* [Michael Shao](http://michaelshao.com)
 
 <section id="Getting-the-Job" />
 ## Getting the Job
+
+<section id="Applying-to-Jobs" />
+### Applying to Jobs
+
+If you're a graduating co-op student, attending Waterloo or elsewhere, you already know how this works, for the most part.
+Here are a few quick resource refreshers for finding awesome companies to work at.
+
+* [AngelList](https://angel.co) - AngelList has a wealth of early to late-stage (well-funded) startups that are always looking for talent. Post a talent profile and search for that full-time job.
+* [LinkedIn Premium](https://premium.linkedin.com) - LinkedIn itself already has some great tools; adding a premium search functionality to that experience can only enhance your search.
+
+Note that even as a co-op student, it can take a while (up to a few months) to find a full-time position if you end up not returning to a previous employer, for whatever reason.
+Keep applying, keep learning, keep trying - persistence and confidence is key. You will find a job in time - everyone does, in some way or another.
+
+General tips & advice:
+
+* Unlike your previous co-op experiences, your employers (outside of JobMine) don't look at your grades or previous co-op evaluations. If your resume is solid, you will likely get a shot for an interview.
+* Since the above point should be further emphasized: **Interview performance is the key deciding factor**
+  * Getting an interview will be different than JobMine; generally, you respond directly to the recruiter, and you schedule everything well in advance.
+  * Most interviews for companies outside of your home city will be phone or voice (Skype, GVoice, etc) interviews. If it's for a technical position, be prepared to code.
 
 <section id="Negotiation" />
 ### Negotiation
@@ -78,8 +98,9 @@ to change seemed to be signing bonus, equity and relocation bonus.
 Some benefits to consider:
 
 * 401k
-* Annual bonuses (mostly large companies)
+* Signing bonus
 * Relocation bonus
+* Annual bonuses (mostly large companies)
 * Vacation time
 
 Some resources other resources about negotiation:
