@@ -189,6 +189,30 @@ credit.
 
 [creditkarma]: https://www.creditkarma.com
 
+<section id="Retirement" />
+## Retirement
+It's never too early to plan your retirement or plan your future finances!
+#### 401(k) vs. IRA
+A 401(k) is an employer-sponsored retirement plan that allows you to contribute a % of your income to some account managed automatically by a financial company like Vanguard. The money is automatically deducted from your paychecks. The yearly contribution limit is around $17,500. One thing to note is that if your employer offers any 401(k) matching, you should definitely sign up for it ASAP, it's free money.
+
+An IRA is an individually managed retirement account, usually through the same financial companies that would manage your 401(k). It is useful for individuals working at companies that might not have a 401(k) plan, like in many startups. The major disadvantages of contributing through an IRA is that you need to personally manage it more closely than a 401(k) and the contribution limit is $5,500 as of 2015, which is significantly lower than a 401(k).
+
+#### Traditional 401(k)/IRA vs. Roth 401(k)/IRA
+A Traditional 401(k)/IRA is contributed to pre-tax and you are taxed on withdrawl, while Roth 401(k)/IRA is contributed to post-tax but is tax free on withdrawl. Basically, do you wanted to pay taxes later or pay taxes now. It's encouraged that you do your own calculations, but here are some possible reasons you might pick either Traditional or Roth.
+
+Roth:
+  - You expect to make more money later in your career and accordingly pay more taxes.
+  - You expect that the general tax rates will go up in the future.
+  - You're temporarily paying less taxes because you're not working (if your visa allows it) or working at an early-stage startup.
+  - You plan on marrying someone with more money.
+ 
+Traditional:
+  - You're making more money than you'd expect to in the future. I.e. if you plan on quitting to join an early-stage startup.
+  - You expect tax rates to go down in the future.
+  - You plan on marrying someone with less money.
+
+It's also important to note that you can only contribute to a Roth IRA if your adjusted income is less than $116,000 or $183,000 if you're married.
+
 <section id="Miscellaneous" />
 ## Miscellaneous
 
