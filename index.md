@@ -2,6 +2,7 @@
 layout: default
 ---
 <section id="Introduction" />
+
 ## Introduction
 
 This document is unofficial and not endorsed by my school or employers.
