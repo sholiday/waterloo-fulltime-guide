@@ -189,6 +189,34 @@ credit.
 
 [creditkarma]: https://www.creditkarma.com
 
+<section id="Taxes" />
+
+## Canada - US Taxes
+This section covers Graham's interpretation of tax law as it stands in 2017. Make sure to confirm for yourself that the statements made are true, apply to you, and haven't changes since the time of writing.
+
+### Change of Residency
+If you move to the states for work and no longer have [residential ties][residentialties] (a house, spouse, or dependants), you will probably be considered a non-resident and an [emigrant][emigrant] by Canada. You will owe Canada taxes on your global income before the date you became a non-resident, and you will owe taxes on only your Canadian income after you become a non-resident. You will want to give [this page][emigrant] a thorough read before declaring yourself a non-resident.
+
+[residentialties]: http://www.cra-arc.gc.ca/tx/nnrsdnts/cmmn/rsdncy-eng.html
+
+[emigrant]: http://www.cra-arc.gc.ca/tx/nnrsdnts/ndvdls/lvng-eng.html#mgrnt
+
+### Savings Accounts
+
+#### RRSPs
+The IRS [recognizes the tax-deferred status of Canadian RRSPs][irsrrsps], so they will continue to be tax sheltered after you move (you will, however, have to disclose your account and it's value to the IRS). You [may continue to contribute to your RRSP after your become a non resident][usrrsp], however, you will generally not accrue any more room from your American employment.
+
+[irsrrsps]: https://www.irs.gov/uac/newsroom/irs-simplifies-procedures-for-favorable-tax-treatment-on-canadian-retirement-plans-and-annual-reporting-requirements
+
+[usrrsp]: http://www.moneysense.ca/save/investing/rrsp/i-dont-live-in-canada-can-i-still-invest-in-rrsps/
+
+#### TFSAs
+As of 2017, *the IRS does not recognize the tax defered status of TFSAs* so you will be taxed on any income in your TFSA ([source][irstfsa]). Additionally, you can not contribute to your TFSA once you become a non-resident (if you do, you will be [taxed at 1% a month by the Canadian Government][tfsatax])
+
+[irstfsa]: http://www.huffingtonpost.ca/cleo-hamel/taxfree-in-canada-doesnt-_b_9017062.html
+
+[tfsatax]: http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/tfsa-celi/lgbl-eng.html
+
 <section id="Retirement" />
 ## Retirement
 It's never too early to plan your retirement or plan your future finances!
