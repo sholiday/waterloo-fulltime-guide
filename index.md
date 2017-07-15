@@ -22,9 +22,11 @@ Please submit a pull request if you have something to add!
 * [Michael Shao](http://michaelshao.com)
 
 <section id="Getting-the-Job" />
+
 ## Getting the Job
 
 <section id="Applying-to-Jobs" />
+
 ### Applying to Jobs
 
 If you're a graduating co-op student, attending Waterloo or elsewhere, you already know how this works, for the most part.
@@ -44,6 +46,7 @@ General tips & advice:
   * Most interviews for companies outside of your home city will be phone or voice (Skype, GVoice, etc) interviews. If it's for a technical position, be prepared to code.
 
 <section id="Negotiation" />
+
 ### Negotiation
 
 Always negotiate. For many of us it's hard to negotiate because the offers are
@@ -113,6 +116,7 @@ Some resources other resources about negotiation:
 [getting-to-yes]: http://www.amazon.ca/Getting-Yes-Negotiate-Agreement-Without/dp/0743526937
 
 <section id="Stock-Options" />
+
 ### Stock Options
 These can be really tricky. Stock options are not the same as RSUs / GSUs.
 
@@ -130,6 +134,7 @@ Resources:
 [wealthfront-stock]: https://blog.wealthfront.com/when-to-exercise-stock-options/
 
 <section id="401k" />
+
 ### 401k
 If you may ever return to Canada later in life, you should checkout this stuff.
 
@@ -143,6 +148,7 @@ If you may ever return to Canada later in life, you should checkout this stuff.
 [401k-pacifica]: http://pacificapartners.com/blog/2012/09/06/transferring-your-401k-to-an-rrsp/
 
 <section id="Visa" />
+
 ## Visa
 
 General Resources:
@@ -152,6 +158,7 @@ General Resources:
 [visa-fw]: http://founderswiki.com/wiki/US_immigration
 
 <section id="TN" />
+
 ### TN
 If you are a Canadian citizen, your employer will likely set you up with a TN
 visa. This is a pretty easy process. You will apply at the border so leave some
@@ -172,6 +179,7 @@ Resources:
 [tn-bulletin]: http://www.tnvisabulletin.com/ 
 
 <section id="H1-B" />
+
 ### H1-B
 A common visa for non-Canadians. Only 65,000 per year are given out every year,
 with an extra 20,000 cap being extended to people with Master's degrees or
@@ -183,6 +191,7 @@ the [USCIS website][h1-uscis].
 [h1-uscis]: http://www.uscis.gov/working-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models/h-1b-fiscal-year-fy-2015-cap-season
 
 <section id="Credit" />
+
 ## Credit
 
 [CreditKarma][creditkarma] is your friend once you have established some form of
@@ -191,8 +200,10 @@ credit.
 [creditkarma]: https://www.creditkarma.com
 
 <section id="Retirement" />
+
 ## Retirement
 It's never too early to plan your retirement or plan your future finances!
+
 #### 401(k) vs. IRA
 A 401(k) is an employer-sponsored retirement plan that allows you to contribute a % of your income to some account managed automatically by a financial company like Vanguard. The money is automatically deducted from your paychecks. The yearly contribution limit is around $17,500. One thing to note is that if your employer offers any 401(k) matching, you should definitely sign up for it ASAP, it's free money.
 
@@ -215,9 +226,11 @@ Traditional:
 It's also important to note that you can only contribute to a Roth IRA if your adjusted income is less than $116,000 or $183,000 if you're married.
 
 <section id="Miscellaneous" />
+
 ## Miscellaneous
 
 <section id="Drivers-License" />
+
 ### Driver's License
 If you have a G in Ontario you still need to take the written and road test.
 [more info for CA][cal-dmv].
