@@ -12,13 +12,16 @@ This is a collection of things we wished someone told us when we went away for f
 in the US. We hope it helps you out. Many things contained in this document were
 gained through mistakes and conversations with older students.
 
-Please submit a pull request if you have something to add!
+Please [fork][fork-me] and submit a pull request if you have something to add!
+
+[fork-me]: https://github.com/sholiday/waterloo-fulltime-guide
 
 ### Contributors
 
 * [Stephen Holiday](https://stephenholiday.com)
 * [Tony Dong](tony-dong.com)
 * [Michael Shao](http://michaelshao.com)
+* [Tieme Togola](https://tiemetogola.com)
 
 <section id="Getting-the-Job" />
 ## Getting the Job
@@ -33,7 +36,8 @@ Here are a few quick resource refreshers for finding awesome companies to work a
 * [LinkedIn Premium](https://premium.linkedin.com) - LinkedIn itself already has some great tools; adding a premium search functionality to that experience can only enhance your search.
 
 Note that even as a co-op student, it can take a while (up to a few months) to find a full-time position if you end up not returning to a previous employer, for whatever reason.
-Keep applying, keep learning, keep trying - persistence and confidence is key. You will find a job in time - everyone does, in some way or another.
+Keep applying, keep learning, keep trying - persistence and confidence is key. You will find a job in time - everyone does, in some way or another. And when the offers start to come in,
+try to keep things in perspective. Yes, choosing your first full-time job is an important decision, but it is not forever. Think of it as a step towards building your career.
 
 General tips & advice:
 
@@ -117,11 +121,13 @@ These can be really tricky. Stock options are not the same as RSUs / GSUs.
 
 Resources:
 
+* [The Open Guide to Equity Compensation][og-equity-compensation]
 * [Consider Your Options][consider-your-options] Book
 * [An Introduction to Stock & Options][intro-to-stock]
   [Scribd][intro-to-stock-scribd] [PDF][intro-to-stock-pdf]
 * [When to Exercise Stock Options][wealthfront-stock]
 
+[og-equity-compensation]: https://github.com/jlevy/og-equity-compensation
 [consider-your-options]: http://fairmark.com/books-fairmark-press/consider-your-options/
 [intro-to-stock]: http://blog.dweek.ly/introduction-to-stock-options-startup-founder-entrepreneur-employee/
 [intro-to-stock-scribd]: http://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee
@@ -184,10 +190,10 @@ the [USCIS website][h1-uscis].
 <section id="Credit" />
 ## Credit
 
-[CreditKarma][creditkarma] is your friend once you have established some form of
-credit.
+[CreditKarma][creditkarma] and [NerdWallet][nerdwallet] are your friends once you have established some form of credit.
 
 [creditkarma]: https://www.creditkarma.com
+[nerdwallet]: https://www.nerdwallet.com
 
 <section id="Retirement" />
 ## Retirement
