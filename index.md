@@ -173,7 +173,7 @@ Resources:
 * [CBP: TN Overvieww][tn-cbp]
 * [TN Visa Bulletin][tn-bulletin]
 
-[tn-cbp]: http://www.cbp.gov/travel/international-visitors/citizens/tn-status
+[tn-cbp]: https://www.cbp.gov/travel/canadian-and-mexican-citizens/traveling-tn-or-l1-visa-canada#
 [tn-bulletin]: http://www.tnvisabulletin.com/ 
 
 <section id="H1-B" />
