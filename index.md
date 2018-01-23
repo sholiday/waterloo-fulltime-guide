@@ -2,6 +2,7 @@
 layout: default
 ---
 <section id="Introduction" />
+
 ## Introduction
 
 This document is unofficial and not endorsed by my school or employers.
@@ -18,15 +19,18 @@ Please [fork][fork-me] and submit a pull request if you have something to add!
 
 ### Contributors
 
-* [Stephen Holiday](https://stephenholiday.com)
-* [Tony Dong](tony-dong.com)
+* [Graham Bleaney](http://bleaney.ca)
 * [Michael Shao](http://michaelshao.com)
+* [Stephen Holiday](https://stephenholiday.com)
 * [Tieme Togola](https://tiemetogola.com)
+* [Tony Dong](tony-dong.com)
 
 <section id="Getting-the-Job" />
+
 ## Getting the Job
 
 <section id="Applying-to-Jobs" />
+
 ### Applying to Jobs
 
 If you're a graduating co-op student, attending Waterloo or elsewhere, you already know how this works, for the most part.
@@ -47,6 +51,7 @@ General tips & advice:
   * Most interviews for companies outside of your home city will be phone or voice (Skype, GVoice, etc) interviews. If it's for a technical position, be prepared to code.
 
 <section id="Negotiation" />
+
 ### Negotiation
 
 Always negotiate. For many of us it's hard to negotiate because the offers are
@@ -97,7 +102,7 @@ prefer, let the recruiter know that you will sign today if x number is y
 
 Some numbers are harder to negotiate than others. At least in 2014, salary was
 hard to negotiate for a lot of the larger companies for many people. The easiest
-to change seemed to be signing bonus, equity and relocation bonus.
+to change seemed to be signing bonus, equity, and relocation bonus.
 
 Some benefits to consider:
 
@@ -116,6 +121,7 @@ Some resources other resources about negotiation:
 [getting-to-yes]: http://www.amazon.ca/Getting-Yes-Negotiate-Agreement-Without/dp/0743526937
 
 <section id="Stock-Options" />
+
 ### Stock Options
 These can be really tricky. Stock options are not the same as RSUs / GSUs.
 
@@ -135,6 +141,7 @@ Resources:
 [wealthfront-stock]: https://blog.wealthfront.com/when-to-exercise-stock-options/
 
 <section id="401k" />
+
 ### 401k
 If you may ever return to Canada later in life, you should checkout this stuff.
 
@@ -148,6 +155,7 @@ If you may ever return to Canada later in life, you should checkout this stuff.
 [401k-pacifica]: http://pacificapartners.com/blog/2012/09/06/transferring-your-401k-to-an-rrsp/
 
 <section id="Visa" />
+
 ## Visa
 
 General Resources:
@@ -157,6 +165,7 @@ General Resources:
 [visa-fw]: http://founderswiki.com/wiki/US_immigration
 
 <section id="TN" />
+
 ### TN
 If you are a Canadian citizen, your employer will likely set you up with a TN
 visa. This is a pretty easy process. You will apply at the border so leave some
@@ -177,6 +186,7 @@ Resources:
 [tn-bulletin]: http://www.tnvisabulletin.com/ 
 
 <section id="H1-B" />
+
 ### H1-B
 A common visa for non-Canadians. Only 65,000 per year are given out every year,
 with an extra 20,000 cap being extended to people with Master's degrees or
@@ -188,6 +198,7 @@ the [USCIS website][h1-uscis].
 [h1-uscis]: http://www.uscis.gov/working-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models/h-1b-fiscal-year-fy-2015-cap-season
 
 <section id="Credit" />
+
 ## Credit
 
 [CreditKarma][creditkarma] and [NerdWallet][nerdwallet] are your friends once you have established some form of credit.
@@ -224,33 +235,53 @@ As of 2017, *the IRS does not recognize the tax defered status of TFSAs* so you 
 [tfsatax]: http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/tfsa-celi/lgbl-eng.html
 
 <section id="Retirement" />
-## Retirement
-It's never too early to plan your retirement or plan your future finances!
-#### 401(k) vs. IRA
-A 401(k) is an employer-sponsored retirement plan that allows you to contribute a % of your income to some account managed automatically by a financial company like Vanguard. The money is automatically deducted from your paychecks. The yearly contribution limit is around $17,500. One thing to note is that if your employer offers any 401(k) matching, you should definitely sign up for it ASAP, it's free money.
 
-An IRA is an individually managed retirement account, usually through the same financial companies that would manage your 401(k). It is useful for individuals working at companies that might not have a 401(k) plan, like in many startups. The major disadvantages of contributing through an IRA is that you need to personally manage it more closely than a 401(k) and the contribution limit is $5,500 as of 2015, which is significantly lower than a 401(k).
+## Retirement
+It's never too early to plan your retirement or plan your future finances! Note that the numbers in this section change almost every year. Refer directly to the IRS website for the most up to date numbers.
+
+#### 401(k) vs. IRA
+A 401(k) is an employer-sponsored retirement plan that allows you to contribute a % of your income to some account managed automatically by a financial company like Vanguard. The money is automatically deducted from your paychecks. The yearly contribution limit changes, but was $18,000 as of 2017 (up to date numbers available [from the IRS][401klimit]). One thing to note is that if your employer offers any 401(k) matching, you should definitely sign up for it ASAP, it's free money.
+
+[401klimit]: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits
+
+An IRA is an individually managed retirement account, usually through the same financial companies that would manage your 401(k). It is useful for individuals working at companies that might not have a 401(k) plan, like in many startups. The major disadvantages of contributing through an IRA is that you need to personally manage it more closely than a 401(k) and the contribution limit is $5,500 as of 2017 (up to date numbers available [from the IRS][iralimit]), which is significantly lower than a 401(k).
+
+[iralimit]: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits
 
 #### Traditional 401(k)/IRA vs. Roth 401(k)/IRA
-A Traditional 401(k)/IRA is contributed to pre-tax and you are taxed on withdrawl, while Roth 401(k)/IRA is contributed to post-tax but is tax free on withdrawl. Basically, do you wanted to pay taxes later or pay taxes now. It's encouraged that you do your own calculations, but here are some possible reasons you might pick either Traditional or Roth.
+A Traditional 401(k)/IRA is contributed to pre-tax and you are taxed on withdrawl, while Roth 401(k)/IRA is contributed to post-tax but is tax free on withdrawl. Basically, do you wanted to pay taxes later or pay taxes now. 
+
+It is important to note that both types of plans are usually better than a standard, non-tax sheltered account. Which one you choose will often be dictated by contribution and deductions limits. For examble, in 2016, [contributions to Traditional IRAs are not tax deductable][iradeduction] (i.e. they are no longer considered pre-tax contributions, and you might as well be putting your money into a non-tax sheltered account) if you had an employee sponsored 401k and earned over $71,000 as a Single filer. This would mean you're better off putting your money in a Roth IRA, since you will at least be able to benefit from the tax savings when you withdraw your money.
+
+[iradeduction]: https://www.irs.gov/retirement-plans/plan-participant-employee/2016-ira-contribution-and-deduction-limits-effect-of-modified-agi-on-deductible-contributions-if-you-are-covered-by-a-retirement-plan-at-work
+
+Assuming you aren't encumbered by contribution or deduction limits outlined above, you will have to choose whether a Traditional or Roth account makes more sense for you. It's encouraged that you do your own calculations, but here are some possible reasons you might pick either Traditional or Roth.
 
 Roth:
+
   - You expect to make more money later in your career and accordingly pay more taxes.
   - You expect that the general tax rates will go up in the future.
   - You're temporarily paying less taxes because you're not working (if your visa allows it) or working at an early-stage startup.
   - You plan on marrying someone with more money.
  
 Traditional:
+
   - You're making more money than you'd expect to in the future. I.e. if you plan on quitting to join an early-stage startup.
   - You expect tax rates to go down in the future.
   - You plan on marrying someone with less money.
 
-It's also important to note that you can only contribute to a Roth IRA if your adjusted income is less than $116,000 or $183,000 if you're married.
+It's also important to note that, as of 2017, Roth IRA contribution limits are reduced for singles earning over $118,000 or maried couples earning over $186,000 (up to date numbers available [from the IRS][rothlimit]). As of 2017, there is a ["backdoor" method][backdoor] that still allows those earning over the limit to contribute to a Roth IRA.
+
+[rothlimit]: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits
+
+[backdoor]: http://www.rothira.com/what-is-a-backdoor-roth-ira
 
 <section id="Miscellaneous" />
+
 ## Miscellaneous
 
 <section id="Drivers-License" />
+
 ### Driver's License
 If you have a G in Ontario you still need to take the written and road test.
 [more info for CA][cal-dmv].
